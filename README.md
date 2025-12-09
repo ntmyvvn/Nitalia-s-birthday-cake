@@ -1,2 +1,2 @@
-# Nitalia-s-birthday-cake
+# Nitascake
 Nitalias birthday cake with interactive candles
